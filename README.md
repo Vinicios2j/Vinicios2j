@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinicios2j
 - 👀 I’m interested in work as a programmer
-- 🌱 I’m currently learning Python - Java Scirpt
+- 🌱 I’m currently learning: Python - Java Scirpt
 - 💞️ I’m looking to collaborate on with new projects
 - 📫 How to reach me: Email - jose.vinicius.batista292@gmail.com - Tell - 21 9 95294926
