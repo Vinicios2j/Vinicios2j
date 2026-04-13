@@ -10,7 +10,7 @@
 ## 🧠 Sobre mim
 
 - 👀 Interesso em trabalhar como programador
-- 🌱 Atualmente estudando: **Python & JavaScript**
+- 🌱 Atualmente estudando: **Java & SQL**
 - 💞️ Aberto a colaborar em projetos
 - 📫 Contato:  
   📧 jose.vinicius.batista292@gmail.com  
