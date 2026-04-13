@@ -1,8 +1,8 @@
 <h1 align="center">👋 Fala, eu sou o Vinícius</h1>
 
 <p align="center">
-🚀 Desenvolvedor Full Stack em evolução<br>
-💻 Criando sistemas, sites e automações
+  🚀 Desenvolvedor Full Stack em evolução <br>
+  💻 Criando sistemas, sites e automações
 </p>
 
 ---
@@ -10,11 +10,11 @@
 ## 🧠 Sobre mim
 
 - 👀 Interessado em trabalhar como programador
-- 🌱 Atualmente estudando: **Java e SQL**
+- 🌱 Atualmente estudando **Java e SQL**
 - 💞️ Aberto a colaborar em projetos
-- 📫 Contato:  
-  📧 jose.vinicius.batista292@gmail.com  
-  📱 WhatsApp: 21 99529-4926  
+- 📫 Contato:
+  - 📧 **jose.vinicius.batista292@gmail.com**
+  - 📱 **WhatsApp:** 21 99529-4926
 
 ---
 
@@ -26,46 +26,34 @@
 
 ---
 
-## 📊 Minhas estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vinicios2j&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicios2j&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Progresso de aprendizado
-
-### JavaScript
-![JavaScript](https://progress-bar.dev/80/?title=JavaScript)
-
-### Node.js
-![Node.js](https://progress-bar.dev/75/?title=Node.js)
-
-### Java
-![Java](https://progress-bar.dev/55/?title=Java)
-
----
-
-## ⚡ Projetos em destaque
+## 📌 Projetos em destaque
 
 - 🤖 Bot de WhatsApp com painel
 - 🌐 Landing pages modernas para empresas
 - 📊 APIs com autenticação e dashboard
-- 📈 Plataforma de automação Instagram (BEE+)
+- 📈 Plataforma de automação Instagram
 
 ---
 
-## 🔥 Bora trabalhar juntos?
+## 📚 Atualmente focado em
 
-Se você tem uma ideia ou projeto:
+- Java
+- SQL
+- JavaScript
+- Node.js
+- Desenvolvimento web
 
-👉 Me chama no WhatsApp ou email  
-👉 Posso te mostrar exemplos reais  
+---
+
+## 🤝 Bora trabalhar juntos?
+
+Se você tem uma ideia ou projeto, entre em contato comigo.
+
+- 📧 **Email:** jose.vinicius.batista292@gmail.com
+- 📱 **WhatsApp:** 21 99529-4926
 
 ---
 
 <p align="center">
-💡 "Transformando ideias em sistemas reais"
+  💡 <i>Transformando ideias em sistemas reais</i>
 </p>
