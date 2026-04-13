@@ -9,8 +9,8 @@
 
 ## 🧠 Sobre mim
 
-- 👀 Interesso em trabalhar como programador
-- 🌱 Atualmente estudando: **Java & SQL**
+- 👀 Interessado em trabalhar como programador
+- 🌱 Atualmente estudando: **Python, JavaScript e Java**
 - 💞️ Aberto a colaborar em projetos
 - 📫 Contato:  
   📧 jose.vinicius.batista292@gmail.com  
@@ -21,7 +21,7 @@
 ## 🚀 Tecnologias que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,git,github" />
 </p>
 
 ---
@@ -38,13 +38,16 @@
 ## 📈 Progresso de aprendizado
 
 ### JavaScript
-![JS](https://progress-bar.dev/80/?title=JavaScript)
+![JavaScript](https://progress-bar.dev/80/?title=JavaScript)
 
 ### Node.js
-![Node](https://progress-bar.dev/75/?title=Node.js)
+![Node.js](https://progress-bar.dev/75/?title=Node.js)
 
 ### Python
 ![Python](https://progress-bar.dev/60/?title=Python)
+
+### Java
+![Java](https://progress-bar.dev/55/?title=Java)
 
 ---
 
